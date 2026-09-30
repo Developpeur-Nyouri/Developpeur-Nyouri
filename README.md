@@ -30,7 +30,7 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
 ## 🔭 En ce moment
 
 - 🔨 Je travaille sur un **projet Kotlin** dans le cadre de mon BTS
-- 📖 J'apprends : _(à compléter, ex : Docker, PHP objet, Git avancé...)_
+- 📖 J'apprends : **Kotlin, PHP, Python** (sites statiques avec Pelican)
 - 🎯 Je cherche : **un stage / une alternance** en développement _(à adapter ou supprimer)_
 
 ---
@@ -40,13 +40,13 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
 **🌐 Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" alt="HTML, CSS, JavaScript, PHP, MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" alt="HTML, CSS, JavaScript, PHP, Bootstrap, MySQL" />
 </p>
 
 **💻 Langages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Python, Java, C" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c" alt="Python, Java, Kotlin, C" />
 </p>
 
 **🛠️ Outils**
@@ -63,52 +63,78 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Nom du projet scolaire
+### 🐉 [KotlinMonsters](https://github.com/Developpeur-Nyouri/KotlinMonsters)
 
-Une phrase sur ce que fait le projet.
+Projet Kotlin du BTS : gestion de monstres avec points de vie, expérience et montée de niveau.
 
 `Kotlin` · `IntelliJ`
-
-[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Nom du projet perso
+### 🎬 [Movie.php](https://github.com/Developpeur-Nyouri/Movie.php)
 
-Une phrase sur ce que fait le projet.
+Site de films en PHP : films populaires, mieux notés, par genre, avec fiches de films et d'acteurs.
 
-`PHP` · `MySQL`
-
-[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
+`PHP`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Nom de l'expérimentation
+### 🏨 [Hôtel Chambord](https://github.com/Developpeur-Nyouri/hotel-chambord)
 
-Une phrase sur ce que tu as testé ou appris.
+Site web d'un hôtel en plusieurs pages, construit session après session en cours.
 
-`Python`
-
-[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
+`HTML` · `CSS` · `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ Projet auto / gaming
+### 🐍 [Portfolio Pelican](https://github.com/Developpeur-Nyouri/Portfolio_Pelican)
 
-Un projet inspiré de mes passions (voitures, jeux vidéo).
+Portfolio BTS SIO généré avec Pelican et Bootstrap 5 : parcours, projets et veille technologique.
 
-`JavaScript`
+`Python` · `Pelican` · `Bootstrap`
 
-[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [Portfolio perso](https://github.com/Developpeur-Nyouri/Portfolio_Perso)
+
+Mon portfolio personnel en HTML/CSS, avec mon CV et mon rapport de stage.
+
+`HTML` · `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 Et la suite…
+
+D'autres projets arrivent, je pousse régulièrement.
+
+[Voir tous mes dépôts →](https://github.com/Developpeur-Nyouri?tab=repositories)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 Mon activité GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Developpeur-Nyouri/Developpeur-Nyouri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Developpeur-Nyouri/Developpeur-Nyouri/output/github-snake.svg" />
+  <img alt="Animation d'un serpent qui mange mes contributions GitHub" src="https://raw.githubusercontent.com/Developpeur-Nyouri/Developpeur-Nyouri/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
