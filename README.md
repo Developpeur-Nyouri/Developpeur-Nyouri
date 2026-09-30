@@ -67,6 +67,12 @@ Après un Bac Pro Métiers de l'Accueil, je consolide mes bases techniques en BT
 #### **Systèmes & DevOps**
 <img src="https://skillicons.dev/icons?i=linux,docker" alt="Systèmes et DevOps" />
 
+<br><br>
+
+### **`// Langues`**
+
+🇫🇷 **Français** · 🇬🇧 **Anglais** · 🇪🇸 **Espagnol** · 🇲🇦 **Arabe marocain (Darija)** · 🇲🇦 **Rif (Tarfit)** · 🇯🇵 **Japonais** *(en apprentissage)*
+
 </div>
 
 ---
