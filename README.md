@@ -36,11 +36,17 @@ Après un Bac Pro Métiers de l'Accueil, je consolide mes bases techniques en BT
 - 📖 **J'apprends :** Kotlin, PHP, Python (sites statiques avec Pelican)
 - 🎯 **Je cherche :** un stage / une alternance en développement
 
+<br>
+
+<div align="center">
+
 **`// Compétences`**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,python,java,kotlin,c,git,github,vscode,linux,docker" alt="HTML, CSS, JavaScript, PHP, Bootstrap, MySQL, Python, Java, Kotlin, C, Git, GitHub, VS Code, Linux, Docker" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,python,java,kotlin,c,git,github,vscode,linux,docker&perline=8" alt="HTML, CSS, JavaScript, PHP, Bootstrap, MySQL, Python, Java, Kotlin, C, Git, GitHub, VS Code, Linux, Docker" />
+
+</div>
 
 ---
 
@@ -171,7 +177,7 @@ Je suis régulièrement l'actualité de l'informatique : **intelligence artifici
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🏎️ Voitures
+### 🏎️️ Voitures
 
 Passionné d'autos, avec un faible pour les **BMW**.
 
@@ -201,12 +207,3 @@ while (alive) {
     experiment();
     drive();
 }
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:10B981,100:064E3B" width="60%" alt="" />
-
-<sub>`// fait avec ☕ et pas mal de bugs corrigés`</sub>
-
-</div>
