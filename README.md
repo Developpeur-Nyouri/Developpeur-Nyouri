@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,50:7F1D1D,100:000000&height=200&section=header&text=Mohamed-Reda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Drive%20%E2%80%A2%20Repeat&descSize=20&descAlignY=58" width="100%" alt="Bannière Mohamed-Reda" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:E11D48,50:7F1D1D,100:000000&height=220&section=header&text=Mohamed-Reda&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%2F%2F%20BTS%20SIO%20%C2%B7%20DEV%20WEB&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière Mohamed-Reda, BTS SIO, développement web" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Salut%2C+moi+c%27est+Mohamed-Reda+%21;%F0%9F%8E%93+%C3%89tudiant+BTS+SIO+SLAM;%F0%9F%92%BB+Je+transforme+les+bugs+en+features;%F0%9F%8F%8E%EF%B8%8F+Fan+de+voitures%2C+motos+et+BMW;%F0%9F%8E%AE+Gamer+%C3%A0+mes+heures+perdues" alt="Salut, moi c'est Mohamed-Reda, étudiant BTS SIO SLAM, fan de voitures, motos et BMW" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=650&lines=%3E+Je+suis+%C3%A9tudiant+en+BTS+SIO+SLAM;%3E+Je+suis+d%C3%A9veloppeur+web;%3E+Je+suis+curieux+de+cybers%C3%A9curit%C3%A9+et+r%C3%A9seaux;%3E+Je+suis+fan+de+BMW+et+de+motos+%F0%9F%8F%8E%EF%B8%8F" alt="Je suis étudiant en BTS SIO SLAM, développeur web, curieux de cybersécurité et réseaux, fan de BMW et de motos" />
 
 <br><br>
 
-![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SLAM-E11D48?style=for-the-badge)
-![Âge](https://img.shields.io/badge/18%20ans-111111?style=for-the-badge)
-![BMW](https://img.shields.io/badge/BMW-Fan-0653B6?style=for-the-badge&logo=bmw&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-0EA5E9?style=for-the-badge)
+![Statut](https://img.shields.io/badge/STATUT-DISPONIBLE-22C55E?style=for-the-badge&labelColor=111111)
+![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SLAM-E11D48?style=for-the-badge&labelColor=111111)
+![Promo](https://img.shields.io/badge/PROMO-2025--2027-0653B6?style=for-the-badge&labelColor=111111)
+![BMW](https://img.shields.io/badge/BMW-FAN-0653B6?style=for-the-badge&logo=bmw&logoColor=white&labelColor=111111)
 ![Visiteurs](https://komarev.com/ghpvc/?username=Developpeur-Nyouri&label=Visiteurs&color=E11D48&style=for-the-badge)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/VOIR%20MON-PORTFOLIO-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://developpeur-nyouri.github.io/Portfolio_Perso/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:81C4FF,33:81C4FF,34:0653B6,66:0653B6,67:E11D48,100:E11D48" width="60%" alt="" />
 
@@ -18,25 +22,21 @@
 
 ---
 
-## 👋 À propos de moi
+## `// 01 · À PROPOS`
 
-Je suis **Mohamed-Reda**, étudiant en **BTS SIO, spécialité SLAM** (développement d'applications).
+Étudiant passionné en **BTS SIO, spécialité SLAM**, je construis des expériences web et j'explore l'informatique, du développement aux réseaux et à la cybersécurité.
 
-J'aime apprendre en créant : je pars d'une idée, je la code, je casse des choses, je comprends pourquoi, et je recommence. Mon GitHub regroupe surtout mes **projets scolaires, projets personnels et expérimentations**.
+Après un Bac Pro Métiers de l'Accueil, je consolide mes bases techniques en BTS tout en développant des projets concrets. Mon objectif : obtenir une licence et construire une carrière solide dans le numérique.
 
 > 💡 Si j'ai une idée, je vais probablement essayer de la coder.
 
----
-
-## 🔭 En ce moment
-
-- 🔨 Je travaille sur un **projet Kotlin** dans le cadre de mon BTS
-- 📖 J'apprends : **Kotlin, PHP, Python** (sites statiques avec Pelican)
-- 🎯 Je cherche : **un stage / une alternance** en développement _(à adapter ou supprimer)_
+- 🔨 **En ce moment :** je travaille sur mes projets Kotlin et PHP du BTS
+- 📖 **J'apprends :** Kotlin, PHP, Python (sites statiques avec Pelican)
+- 🎯 **Je cherche :** un stage / une alternance en développement
 
 ---
 
-## ⚡ Technologies
+## `// 02 · COMPÉTENCES`
 
 **🌐 Web**
 
@@ -50,7 +50,7 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,c" alt="Python, Java, Kotlin, C" />
 </p>
 
-**🛠️ Outils**
+**🛠️ Outils & systèmes**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux, Docker" />
@@ -58,7 +58,7 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
 
 ---
 
-## 🚀 Mes projets
+## `// 03 · PROJETS & TP`
 
 <table>
 <tr>
@@ -66,18 +66,18 @@ J'aime apprendre en créant : je pars d'une idée, je la code, je casse des chos
 
 ### 🐉 [KotlinMonsters](https://github.com/Developpeur-Nyouri/KotlinMonsters)
 
-Projet Kotlin du BTS : gestion de monstres avec points de vie, expérience et montée de niveau.
+Jeu de rôle textuel façon Pokémon en Kotlin : dresseurs, monstres, cartes, exploration de zones, gestion d'équipe et choix du starter.
 
-`Kotlin` · `IntelliJ`
+`Kotlin` · `Jeu textuel`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Movie.php](https://github.com/Developpeur-Nyouri/Movie.php)
+### 🎬 [Site cinéma](https://github.com/Developpeur-Nyouri/Movie.php)
 
-Site de films en PHP : films populaires, mieux notés, par genre, avec fiches de films et d'acteurs.
+Site en PHP qui exploite une API de films et une base de données : recherche, tendances et films les mieux notés.
 
-`PHP`
+`PHP` · `API` · `BDD`
 
 </td>
 </tr>
@@ -86,46 +86,68 @@ Site de films en PHP : films populaires, mieux notés, par genre, avec fiches de
 
 ### 🏨 [Hôtel Chambord](https://github.com/Developpeur-Nyouri/hotel-chambord)
 
-Site web d'un hôtel en plusieurs pages, construit session après session en cours.
+Site vitrine d'un hôtel fictif, réalisé en groupe et déployé sur un serveur LAMP, enrichi en PHP et SQL pour gérer les salariés (ajout, modification, suppression).
 
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `PHP` · `SQL` · `LAMP`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐍 [Portfolio Pelican](https://github.com/Developpeur-Nyouri/Portfolio_Pelican)
 
-Portfolio BTS SIO généré avec Pelican et Bootstrap 5 : parcours, projets et veille technologique.
+Portfolio en site statique généré avec Pelican, un générateur de sites écrit en Python.
 
-`Python` · `Pelican` · `Bootstrap`
+`Pelican` · `Python` · `HTML/CSS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portfolio perso](https://github.com/Developpeur-Nyouri/Portfolio_Perso)
+### 💼 [Portfolio personnel](https://developpeur-nyouri.github.io/Portfolio_Perso/)
 
-Mon portfolio personnel en HTML/CSS, avec mon CV et mon rapport de stage.
+Mon portfolio pour présenter mon parcours, mes compétences, mes projets et ma veille techno. [Voir le code](https://github.com/Developpeur-Nyouri/Portfolio_Perso).
 
-`HTML` · `CSS`
+`HTML` · `CSS` · `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 📂 Et la suite…
+### 🧪 [TP & mini-projets](https://github.com/Developpeur-Nyouri/test)
 
-D'autres projets arrivent, je pousse régulièrement.
+Tous les travaux pratiques et mini-projets de ma première année de BTS SIO.
 
-[Voir tous mes dépôts →](https://github.com/Developpeur-Nyouri?tab=repositories)
+`TP 1ère année`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+[Voir tous mes dépôts →](https://github.com/Developpeur-Nyouri?tab=repositories)
+
+</div>
+
 ---
 
-## 🐍 Mon activité GitHub
+## `// 04 · VEILLE TECHNO`
+
+Je suis régulièrement l'actualité de l'informatique : **intelligence artificielle**, **développement web**, **cybersécurité** et **cloud**.
+
+| Outil | Utilisation |
+| --- | --- |
+| 🔔 Feedly / Inoreader | Centraliser les flux RSS par thème |
+| 🛡️ CERT-FR / ANSSI | Consulter les alertes de cybersécurité |
+| 🌐 MDN / GitHub Changelog | Suivre les nouveautés du développement web |
+| 🤖 Hugging Face Papers | Découvrir les recherches en IA |
+| 📝 Notion | Classer les articles et rédiger des synthèses |
+
+[Lire mes synthèses de veille →](https://developpeur-nyouri.github.io/Portfolio_Perso/#veille)
+
+---
+
+## `// 05 · ACTIVITÉ GITHUB`
 
 <div align="center">
 
@@ -139,35 +161,29 @@ D'autres projets arrivent, je pousse régulièrement.
 
 ---
 
-## 🏁 En dehors du code
+## `// 06 · HORS CODE`
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🏎️ Ma BMW de rêve
+### 🏎️ Voitures
 
-**_(modèle à compléter)_**
-
-_(Une phrase : pourquoi celle-là ?)_
+Passionné d'autos, avec un faible pour les **BMW**.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🏍️ Ma moto de rêve
+### 🏍️ Motos
 
-**_(modèle à compléter)_**
-
-_(Une phrase : pourquoi celle-là ?)_
+J'aime les motos et tout ce qui roule.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🎮 Mon jeu du moment
+### 🎮 Jeux vidéo
 
-**_(jeu à compléter)_**
-
-_(Une phrase : ce que j'aime dedans)_
+Quand je ne code pas, je joue.
 
 </td>
 </tr>
@@ -182,3 +198,9 @@ while (alive) {
     drive();
 }
 ```
+
+<div align="center">
+
+<sub>Fait avec ☕ et pas mal de bugs corrigés</sub>
+
+</div>
