@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=180&section=header&text=Mohamed-Reda&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build&descSize=20&descAlignY=60" width="100%" alt="Bannière Mohamed-Reda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=180&section=header&text=Mohamed-Reda&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Drive%20%E2%80%A2%20Build&descSize=20&descAlignY=60" width="100%" alt="Bannière Mohamed-Reda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+en+devenir;Passionn%C3%A9+de+jeux+vid%C3%A9o;J%27apprends+en+construisant+des+projets;Bienvenue+sur+mon+GitHub+%F0%9F%9A%80" alt="Étudiant en BTS SIO SLAM, développeur en devenir, passionné de jeux vidéo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+en+devenir;Passionn%C3%A9+d%27autos+et+de+motos;Fan+de+BMW+et+de+jeux+vid%C3%A9o;Bienvenue+sur+mon+GitHub+%F0%9F%8F%81" alt="Étudiant en BTS SIO SLAM, développeur en devenir, passionné d'autos et de motos" />
 
 <br><br>
 
-![Étudiant](https://img.shields.io/badge/BTS%20SIO-SLAM-1E293B?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Âge](https://img.shields.io/badge/18%20ans-334155?style=for-the-badge)
-![Gaming](https://img.shields.io/badge/Gaming-3B82F6?style=for-the-badge&logo=gamepad&logoColor=white)
-![Status](https://img.shields.io/badge/Toujours%20en%20train%20d'apprendre-0F172A?style=for-the-badge)
+![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SLAM-111111?style=for-the-badge)
+![Âge](https://img.shields.io/badge/18%20ans-262626?style=for-the-badge)
+![BMW](https://img.shields.io/badge/BMW-Fan-0653B6?style=for-the-badge&logo=bmw&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-E11D48?style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:81C4FF,33:81C4FF,34:0653B6,66:0653B6,67:E11D48,100:E11D48" width="60%" alt="" />
 
 </div>
 
@@ -67,7 +69,7 @@ Une phrase sur ce que fait le projet.
 
 `Kotlin` · `IntelliJ`
 
-[Voir le projet →](https://github.com/TON-PSEUDO/NOM-DU-REPO)
+[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +80,7 @@ Une phrase sur ce que fait le projet.
 
 `PHP` · `MySQL`
 
-[Voir le projet →](https://github.com/TON-PSEUDO/NOM-DU-REPO)
+[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
 
 </td>
 </tr>
@@ -91,18 +93,18 @@ Une phrase sur ce que tu as testé ou appris.
 
 `Python`
 
-[Voir le projet →](https://github.com/TON-PSEUDO/NOM-DU-REPO)
+[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Nom du projet gaming
+### 🏎️ Projet auto / gaming
 
-Une phrase sur le projet inspiré des jeux vidéo.
+Un projet inspiré de mes passions (voitures, jeux vidéo).
 
 `JavaScript`
 
-[Voir le projet →](https://github.com/TON-PSEUDO/NOM-DU-REPO)
+[Voir le projet →](https://github.com/Developpeur-Nyouri/NOM-DU-REPO)
 
 </td>
 </tr>
@@ -110,23 +112,33 @@ Une phrase sur le projet inspiré des jeux vidéo.
 
 ---
 
-## 🐍 Mon activité GitHub
+## 🏁 En dehors du code
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TON-PSEUDO/TON-PSEUDO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TON-PSEUDO/TON-PSEUDO/output/github-snake.svg" />
-  <img alt="Animation d'un serpent qui mange mes contributions GitHub" src="https://raw.githubusercontent.com/TON-PSEUDO/TON-PSEUDO/output/github-snake.svg" />
-</picture>
+### 🏎️ Voitures
 
-</div>
+Ma grande passion, avec un faible pour les **BMW**.
 
----
+</td>
+<td width="33%" align="center">
 
-## 🎮 En dehors du code
+### 🏍️ Motos
 
-Quand je ne suis pas devant mon IDE, je suis probablement devant un jeu vidéo. J'aime la technologie et tout ce qui permet de créer ou d'expérimenter.
+J'aime les motos et tout ce qui roule.
+
+</td>
+<td width="33%" align="center">
+
+### 🎮 Jeux vidéo
+
+Quand je ne code pas, je joue.
+
+</td>
+</tr>
+</table>
 
 ```java
 while (alive) {
@@ -134,6 +146,7 @@ while (alive) {
     code();
     debug();
     experiment();
+    drive();
 }
 ```
 
@@ -144,8 +157,8 @@ while (alive) {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
+[![Email](https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=120&section=footer" width="100%" alt="" />
 
 </div>
