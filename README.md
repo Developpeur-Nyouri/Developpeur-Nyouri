@@ -71,114 +71,7 @@ Après un Bac Pro Métiers de l'Accueil, je consolide mes bases techniques en BT
 
 ---
 
-## `// 02 · PROJETS & TP`
-
-### Projets & TP
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-`PROJET SCOLAIRE`
-
-### 🐉 [KotlinMonsters](https://github.com/Developpeur-Nyouri/KotlinMonsters)
-
-Jeu de rôle textuel façon Pokémon en Kotlin : dresseurs, monstres, cartes, exploration de zones, gestion d'équipe et choix du starter.
-
-`Kotlin` `Jeu textuel`
-
-</td>
-<td width="50%" valign="top">
-
-`PROJET SCOLAIRE`
-
-### 🎬 [Site cinéma](https://github.com/Developpeur-Nyouri/Movie.php)
-
-Site en PHP qui exploite une API de films et une base de données : recherche, tendances et films les mieux notés.
-
-`PHP` `API` `BDD`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-`PROJET SCOLAIRE`
-
-### 🏨 [Hôtel Chambord](https://github.com/Developpeur-Nyouri/hotel-chambord)
-
-Site vitrine d'un hôtel fictif, réalisé en groupe et déployé sur un serveur LAMP, enrichi en PHP et SQL pour gérer les salariés (ajout, modification, suppression).
-
-`HTML` `PHP` `SQL` `LAMP`
-
-</td>
-<td width="50%" valign="top">
-
-`PROJET SCOLAIRE`
-
-### 🐍 [Portfolio Pelican](https://github.com/Developpeur-Nyouri/Portfolio_Pelican)
-
-Portfolio en site statique généré avec Pelican, un générateur de sites écrit en Python.
-
-`Pelican` `Python` `HTML/CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-`PROJET SCOLAIRE`
-
-### 💼 [Portfolio personnel](https://developpeur-nyouri.github.io/Portfolio_Perso/)
-
-Mon portfolio pour présenter mon parcours, mes compétences, mes projets et ma veille techno. [Voir le code](https://github.com/Developpeur-Nyouri/Portfolio_Perso).
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-`TP`
-
-### 🧪 [TP & mini-projets](https://github.com/Developpeur-Nyouri/test)
-
-Tous les travaux pratiques et mini-projets de ma première année de BTS SIO.
-
-`TP` `1ère année`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[Voir tous mes dépôts →](https://github.com/Developpeur-Nyouri?tab=repositories)
-
-</div>
-
----
-
-## `// 03 · VEILLE TECHNO`
-
-### Veille techno
-
-Je suis régulièrement l'actualité de l'informatique : **intelligence artificielle**, **développement web**, **cybersécurité** et **cloud**.
-
-**Mon organisation de veille** · `// Consultation régulière · Synthèses réalisées manuellement`
-
-| Outil | Utilisation | Suivi |
-| --- | --- | --- |
-| 🔔 **Feedly / Inoreader** | Centraliser les flux RSS par thème | Régulièrement |
-| 🛡️ **CERT-FR / ANSSI** | Consulter les alertes de cybersécurité | À chaque alerte |
-| 🌐 **MDN / GitHub Changelog** | Suivre les nouveautés du développement web | Selon l'actualité |
-| 🤖 **Hugging Face Papers** | Découvrir les recherches en intelligence artificielle | Régulièrement |
-| 📝 **Notion** | Classer les articles et rédiger des synthèses | Après lecture |
-
-[Lire mes synthèses de veille →](https://developpeur-nyouri.github.io/Portfolio_Perso/#veille)
-
----
-
-## `// 04 · ACTIVITÉ GITHUB`
+## `// 02 · ACTIVITÉ GITHUB`
 
 <div align="center">
 
@@ -192,7 +85,7 @@ Je suis régulièrement l'actualité de l'informatique : **intelligence artifici
 
 ---
 
-## `// 05 · HORS CODE`
+## `// 03 · HORS CODE`
 
 <table>
 <tr>
