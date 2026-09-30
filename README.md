@@ -99,3 +99,25 @@ J'aime particulièrement les jeux vidéo, la technologie et tout ce qui me perme
 ║  🚀 Creating                         ║
 ║                                      ║
 ╚══════════════════════════════════════╝
+
+        💡 IDÉE
+          │
+          ▼
+      💻 CODAGE
+          │
+          ▼
+       🐛 BUG
+          │
+          ▼
+      🔎 DEBUG
+          │
+          ▼
+     🧠 COMPRENDRE
+          │
+          ▼
+       🚀 BUILD
+          │
+          └──────────────┐
+                         │
+                         ▼
+                    💡 NOUVELLE IDÉE
