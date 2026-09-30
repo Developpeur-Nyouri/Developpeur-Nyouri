@@ -178,13 +178,3 @@ while (alive) {
 
 ---
 
-## 📫 Me contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
-[![Email](https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=120&section=footer" width="100%" alt="" />
-
-</div>
