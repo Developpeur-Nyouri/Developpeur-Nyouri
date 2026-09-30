@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=180&section=header&text=Mohamed-Reda&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Drive%20%E2%80%A2%20Build&descSize=20&descAlignY=60" width="100%" alt="Bannière Mohamed-Reda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,50:7F1D1D,100:000000&height=200&section=header&text=Mohamed-Reda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Drive%20%E2%80%A2%20Repeat&descSize=20&descAlignY=58" width="100%" alt="Bannière Mohamed-Reda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+en+devenir;Passionn%C3%A9+d%27autos+et+de+motos;Fan+de+BMW+et+de+jeux+vid%C3%A9o;Bienvenue+sur+mon+GitHub+%F0%9F%8F%81" alt="Étudiant en BTS SIO SLAM, développeur en devenir, passionné d'autos et de motos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Salut%2C+moi+c%27est+Mohamed-Reda+%21;%F0%9F%8E%93+%C3%89tudiant+BTS+SIO+SLAM;%F0%9F%92%BB+Je+transforme+les+bugs+en+features;%F0%9F%8F%8E%EF%B8%8F+Fan+de+voitures%2C+motos+et+BMW;%F0%9F%8E%AE+Gamer+%C3%A0+mes+heures+perdues" alt="Salut, moi c'est Mohamed-Reda, étudiant BTS SIO SLAM, fan de voitures, motos et BMW" />
 
 <br><br>
 
-![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SLAM-111111?style=for-the-badge)
-![Âge](https://img.shields.io/badge/18%20ans-262626?style=for-the-badge)
+![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SLAM-E11D48?style=for-the-badge)
+![Âge](https://img.shields.io/badge/18%20ans-111111?style=for-the-badge)
 ![BMW](https://img.shields.io/badge/BMW-Fan-0653B6?style=for-the-badge&logo=bmw&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-E11D48?style=for-the-badge)
+![Gaming](https://img.shields.io/badge/Gaming-0EA5E9?style=for-the-badge)
+![Visiteurs](https://komarev.com/ghpvc/?username=Developpeur-Nyouri&label=Visiteurs&color=E11D48&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:81C4FF,33:81C4FF,34:0653B6,66:0653B6,67:E11D48,100:E11D48" width="60%" alt="" />
 
@@ -178,3 +179,11 @@ while (alive) {
 
 ---
 
+## 📫 Me contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
+[![Email](https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
+
+</div>
