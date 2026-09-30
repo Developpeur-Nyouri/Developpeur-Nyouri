@@ -143,25 +143,31 @@ D'autres projets arrivent, je pousse régulièrement.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🏎️ Voitures
+### 🏎️ Ma BMW de rêve
 
-Ma grande passion, avec un faible pour les **BMW**.
+**_(modèle à compléter)_**
 
-</td>
-<td width="33%" align="center">
-
-### 🏍️ Motos
-
-J'aime les motos et tout ce qui roule.
+_(Une phrase : pourquoi celle-là ?)_
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🎮 Jeux vidéo
+### 🏍️ Ma moto de rêve
 
-Quand je ne code pas, je joue.
+**_(modèle à compléter)_**
+
+_(Une phrase : pourquoi celle-là ?)_
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎮 Mon jeu du moment
+
+**_(jeu à compléter)_**
+
+_(Une phrase : ce que j'aime dedans)_
 
 </td>
 </tr>
