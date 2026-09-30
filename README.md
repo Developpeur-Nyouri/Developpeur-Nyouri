@@ -44,7 +44,38 @@ Après un Bac Pro Métiers de l'Accueil, je consolide mes bases techniques en BT
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,python,java,kotlin,c,git,github,vscode,linux,docker&perline=8" alt="HTML, CSS, JavaScript, PHP, Bootstrap, MySQL, Python, Java, Kotlin, C, Git, GitHub, VS Code, Linux, Docker" />
+<table>
+  <tr>
+    <td align="right" width="25%"><b>Développement</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,kotlin,c&perline=8" alt="Langages de développement" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Bases de données</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="Bases de données" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks & Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frameworks et Design" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Outils & Versionning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Outils de développement" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Systèmes & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,docker" alt="Systèmes et DevOps" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -177,7 +208,7 @@ Je suis régulièrement l'actualité de l'informatique : **intelligence artifici
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🏎️️ Voitures
+### 🏎 Voitures
 
 Passionné d'autos, avec un faible pour les **BMW**.
 
